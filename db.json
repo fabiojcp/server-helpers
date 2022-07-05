@@ -1,9 +1,10 @@
 {
   "users": [
     {
+      "email": "maoamiga@maoamiga.com.br",
+      "password": "123456",
       "id": 1,
       "type": "entity",
-      "name": "Mão amiga",
       "img": "https://i.imgur.com/SHhWQai.jpg",
       "gender": null,
       "description": "O Projeto Mão Amiga encaminha para escolas particulares as crianças carentes, de zero a quatro anos, que não conseguem vaga no ensino gratuito.",
@@ -20,6 +21,8 @@
       }
     },
     {
+      "email": "contato@kenzie.com.br",
+      "password": "123456",
       "id": 2,
       "type": "juridica",
       "name": "Kenzie",
@@ -39,6 +42,8 @@
       }
     },
     {
+      "email": "felipe@kenzie.com.br",
+      "password": "123456",
       "id": 3,
       "type": "fisica",
       "name": "Felipe Calori",
