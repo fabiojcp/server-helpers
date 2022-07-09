@@ -67,6 +67,7 @@
     {
       "id": 1,
       "ownerID": 1,
+      "name" : "Ajuda a escola Dr. Edmundo de Carvalho",
       "type": { "financial": true, "material": true },
       "description": "Pintar a escola Dr. Edmundo de Carvalho. Precisamos de seis voluntário para fazer isso e materiais",
       "date": "2022-07-20",
@@ -103,6 +104,7 @@
       "id": 2,
       "ownerID": 1,
       "type": { "financial": true, "material": false },
+      "name" : "Remédios para Sônia",
       "description": "Ajudar a dona Sônia a comprar seus remédios",
       "date": "2022-08-14",
       "img": [
@@ -137,7 +139,8 @@
       "id": 3,
       "ownerID": 1,
       "type": { "financial": true, "material": false },
-      "description": "Limpar terrno baldio seu Zé",
+      "name": "Limpar a horta do seu Zé",
+      "description": "Seu Zé é um senhor que por muito tempo fez uma horta para comunidade, mas chegada um tempo ele não consegue mais cuidar do terreno, estamos nos unindo para ajudar a limpar o terreno do seu Zé.",
       "date": "2022-08-16",
       "img": [
         "https://img.freepik.com/fotos-gratis/medico-afro-americano-em-quarto-de-hospital-discutindo-diagnostico-e-tratamento-com-homem-idoso-doente-leigos_482257-2862.jpg?w=2000",
