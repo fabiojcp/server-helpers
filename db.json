@@ -2,6 +2,7 @@
   "users": [
     {
       "email": "maoamiga@maoamiga.com.br",
+      "name" : "Projeto Mão amiga",
       "password": "$2a$10$Mdc8yclq/cBQHIL2FF9bF.O9c8vS5Wzlcm8INOyZT2tHEuz2UwTZC",
       "id": 1,
       "type": "entity",
