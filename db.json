@@ -81,6 +81,12 @@
         "https://img.freepik.com/fotos-gratis/professor-mostrando-a-um-aluno-como-resolver-um-problema_23-2148672162.jpg?w=2000",
         "https://img.freepik.com/fotos-gratis/criancas-sorridentes-de-tiro-medio-posando-juntas_23-2149073581.jpg?w=2000"
       ],
+      "bankDetails": {
+        "bankName": "Banco do Brasil",
+        "agency": "1234",
+        "account": "123456789",
+        "accountType": "Conta Corrente"
+      },
       "financialGoal": 5000,
       "materialGoal": 6,
       "raised": [
@@ -119,6 +125,12 @@
         "https://img.freepik.com/fotos-gratis/consulta-medica-de-uma-mulher-idosa-em-uma-clinica-particular-moderna-enquanto-ela-esta-sentada-na-cama-de-hospital-e-o-medico-escuta-seu-coracao-bater-tratamento-medico-hospitalar-consulta-especializada_482257-4267.jpg?w=2000",
         "https://img.freepik.com/fotos-gratis/mao-de-mulher-derrama-as-pilulas-de-medicamento-fora-da-garrafa_1150-14190.jpg?w=2000"
       ],
+      "bankDetails": {
+        "bankName": "Banco do Brasil",
+        "agency": "1234",
+        "account": "123456789",
+        "accountType": "Conta Corrente"
+      },
       "financialGoal": 4000,
       "materialGoal": 0,
       "raised": [
@@ -157,6 +169,12 @@
         "https://img.freepik.com/fotos-gratis/mao-do-jardineiro-masculino-cavando-o-solo-na-horta_23-2148165173.jpg?w=2000",
         "https://img.freepik.com/fotos-gratis/proprietario-de-estufa-madura-examinando-flor-em-vaso-enquanto-trabalhava-no-viveiro-de-plantas_637285-1394.jpg?w=360"
       ],
+      "bankDetails": {
+        "bankName": "Banco do Brasil",
+        "agency": "1234",
+        "account": "123456789",
+        "accountType": "Conta Corrente"
+      },
       "financialGoal": 0,
       "materialGoal": 2,
       "raised": [],
