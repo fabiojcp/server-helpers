@@ -17,7 +17,8 @@
           "bankName": "Banco do Brasil",
           "agency": "1234",
           "account": "123456789",
-          "accountType": "Conta Corrente"
+          "accountType": "Conta Corrente",
+          "pix": "1130304040"          
         }
       }
     },
@@ -71,6 +72,9 @@
       "name": "Ajuda a escola Dr. Edmundo de Carvalho",
       "type": { "financial": true, "material": true },
       "description": "Pintar a escola Dr. Edmundo de Carvalho. Precisamos de seis voluntário para fazer isso e materiais",
+      "address": "Rua dos Bobos, nº 0",
+      "city": "São Paulo",
+      "state": "SP",
       "date": "2022-07-20",
       "img": [
         "https://img.freepik.com/fotos-gratis/pintor-mascarado-no-trabalho-em-um-apartamento-reforma-e-pintura-em-casa-durante-uma-pandemia-de-coronavirus_53419-9306.jpg?w=2000",
@@ -107,6 +111,9 @@
       "type": { "financial": true, "material": false },
       "name": "Remédios para Sônia",
       "description": "Ajudar a dona Sônia a comprar seus remédios",
+      "address": "Rua dos Bobos, nº 0",
+      "city": "São Paulo",
+      "state": "SP",
       "date": "2022-08-14",
       "img": [
         "https://img.freepik.com/fotos-gratis/consulta-medica-de-uma-mulher-idosa-em-uma-clinica-particular-moderna-enquanto-ela-esta-sentada-na-cama-de-hospital-e-o-medico-escuta-seu-coracao-bater-tratamento-medico-hospitalar-consulta-especializada_482257-4267.jpg?w=2000",
@@ -140,6 +147,9 @@
       "id": 3,
       "ownerID": 1,
       "type": { "financial": true, "material": false },
+      "address": "Rua dos Bobos, nº 0",
+      "city": "São Paulo",
+      "state": "SP",
       "name": "Limpar a horta do seu Zé",
       "description": "Seu Zé é um senhor que por muito tempo fez uma horta para comunidade, mas chegada um tempo ele não consegue mais cuidar do terreno, estamos nos unindo para ajudar a limpar o terreno do seu Zé.",
       "date": "2022-08-16",
