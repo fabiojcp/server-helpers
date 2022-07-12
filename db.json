@@ -85,7 +85,8 @@
         "bankName": "Banco do Brasil",
         "agency": "1234",
         "account": "123456789",
-        "accountType": "Conta Corrente"
+        "accountType": "Conta Corrente",
+        "pix": "1130304040"          
       },
       "financialGoal": 5000,
       "materialGoal": 6,
@@ -129,7 +130,8 @@
         "bankName": "Banco do Brasil",
         "agency": "1234",
         "account": "123456789",
-        "accountType": "Conta Corrente"
+        "accountType": "Conta Corrente",
+        "pix": "1130304040"          
       },
       "financialGoal": 4000,
       "materialGoal": 0,
@@ -173,7 +175,8 @@
         "bankName": "Banco do Brasil",
         "agency": "1234",
         "account": "123456789",
-        "accountType": "Conta Corrente"
+        "accountType": "Conta Corrente",
+        "pix": "1130304040"          
       },
       "financialGoal": 0,
       "materialGoal": 2,
